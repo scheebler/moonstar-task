@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Comment component Test Comment 1`] = `
+<div
+  className="sc-beqWaB bxEIKC"
+>
+  <div
+    className="sc-dmqHEX dVcblq"
+  >
+    Mocked Name
+  </div>
+  <div
+    className="sc-gueYoa eZgvgL"
+  >
+    mocked@email.com
+  </div>
+  <div>
+    This is a mocked body
+  </div>
+</div>
+`;

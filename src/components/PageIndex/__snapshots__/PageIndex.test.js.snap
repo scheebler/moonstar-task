@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest PageIndex component Test active PageIndex 1`] = `
+<div
+  className="sc-beqWaB kcmzco"
+  onClick={[Function]}
+>
+  1
+</div>
+`;
+
+exports[`Jest PageIndex component Test inactive PageIndex 1`] = `
+<div
+  className="sc-beqWaB fhCxnn"
+  onClick={[Function]}
+>
+  1
+</div>
+`;
